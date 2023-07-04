@@ -41,7 +41,7 @@ const Intro = () => {
         <div className="f-icons">
           <Linkedin color="black" size={"3rem"} />
           <Gitub color="black" size={"3rem"} />
-          <Whatsapp color="black" size={"3rem"} phoneNumber={8344842137}/>
+          <Whatsapp color="black" size={"3rem"} phoneNumber={+918344842137}/>
           <Insta color="black" size={"3rem"} />
         </div>
       </div>

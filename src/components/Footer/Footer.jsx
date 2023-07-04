@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="f-icons">
           <Insta color="white" size={"3rem"} />
           <Gitub color="white" size={"3rem"} />
-          <Whatsapp color="white" size={"3rem"} phoneNumber={8344842137} />
+          <Whatsapp color="white" size={"3rem"} phoneNumber={+918344842137} />
           <Linkedin color="white" size={"3rem"} />
         </div>
       </div>
