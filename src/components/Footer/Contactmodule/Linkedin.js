@@ -3,7 +3,7 @@ import Linkedins from "@iconscout/react-unicons/icons/uil-linkedin"
 
 const Linkedin = ({  }) => {
   const handleChatClick = () => {
-    const url = `https://www.linkedin.com/in/gowthesh-d-9a52591b2/`;
+    const url = `https://www.linkedin.com/in/gowthesh-duraisamy-9a52591b2/`;
     window.open(url, '_blank');
   };
 
